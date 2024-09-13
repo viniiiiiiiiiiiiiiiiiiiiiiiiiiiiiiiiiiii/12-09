@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(226, 189, 5);
+    color: #ffffff;
+    font-size: 12pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+h1{
+    background-color: rgb(253, 117, 5);
+    color: rgb(0, 0, 0);
+}
+
+a{
+    color: aqua;
+    text-decoration: none;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+button{
+    font-family: serif;
+    background-color: chartreuse;
+}
